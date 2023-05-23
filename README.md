@@ -1,4 +1,4 @@
-- 👋 Hi, This is Miguel Angel, it´s a pleasure to meet you!!! , I am currently learning data science, and will do as much as possible to reach my goals....cheers.
+- 👋 Hi, This is Miguel Angel, it´s a pleasure to meet you!!! , I am currently learning data analitics, i will do as much as possible to reach my goals....cheers.
 
 
 <!---
