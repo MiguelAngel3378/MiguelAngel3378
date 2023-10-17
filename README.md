@@ -1,5 +1,4 @@
-- 👋 Hi, This is Miguel Angel, it´s a pleasure to meet you!!! , I am currently learning data analitics, i will do as much as possible to reach my goals....cheers.
-
+- 👋 Dear all, This is Miguel Angel, recently graduated in a Master of Data Analysis (My Sql, Python, visualization & dashboards tools: Seaborn, Matplotlib, & Power BI). Advanced English level proficiency. My work and personal experience allow me to contribute effectively to take on challenges, Teamwork to achieve all goals.
 
 <!---
 MiguelAngel3378/MiguelAngel3378 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
